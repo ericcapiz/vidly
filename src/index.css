@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding-top: 50px;
+  background-color: rgb(96, 107, 212) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+p{
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 30px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.clickable{
+  cursor: pointer;
+}
